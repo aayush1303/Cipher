@@ -1,0 +1,22 @@
+{
+    "name": "Cipher",
+    "short_name": "Chat App",
+    "description": "A real-time chat application built with Next.js and Firebase.",
+    "icons": [
+      {
+        "src": "/icons/icon2.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/icon1.png",
+        "sizes": "512x512 144x144",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "rgba(255, 255, 255, 0.8)",
+    "background_color": "rgba(255, 255, 255, 0.8)"
+  }
+  
