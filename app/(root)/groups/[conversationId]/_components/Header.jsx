@@ -111,7 +111,7 @@ const Header = ({ params }) => {
               <div className="grid gap-4 py-4">
                 <div className="flex flex-col justify-center items-start gap-2">
                   <Label htmlFor="name" className="text-left">
-                    Friend's Email
+                    Email
                   </Label>
                   <Input
                     id="email"
