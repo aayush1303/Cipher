@@ -33,7 +33,9 @@ export default function CustomSignUpPage() {
             </h2>
 
             <p className="mt-4 leading-relaxed text-white/90">
-              Welcome to Cipher! Sign in to unlock a world of secure and seamless communication. Connect, collaborate, and share effortlessly—all while ensuring your privacy and data security. Let’s get started!
+              Welcome to Cipher! Sign Up to unlock a world of secure and seamless communication.
+              Connect, collaborate, and share effortlessly—all while ensuring your privacy and
+              data security. Let&rsquo;s get started!
             </p>
           </div>
         </section>
@@ -66,8 +68,10 @@ export default function CustomSignUpPage() {
               </h1>
 
               <p className="mt-4 leading-relaxed text-gray-500">
-                Welcome to Cipher! Sign in to unlock a world of secure and seamless communication. Connect, collaborate, and share effortlessly—all while ensuring your privacy and data security. Let’s get started!
-              </p>
+                Welcome to Cipher! Sign Up to unlock a world of secure and seamless communication.
+                Connect, collaborate, and share effortlessly—all while ensuring your privacy and
+                data security. Let&rsquo;s get started!        
+                </p>
             </div>
           </div>
           <SignUp />

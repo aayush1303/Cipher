@@ -32,7 +32,9 @@ export default function Page() {
                         </h2>
 
                         <p className="mt-4 leading-relaxed text-white/90">
-                        Welcome to Cipher! Sign in to unlock a world of secure and seamless communication. Connect, collaborate, and share effortlessly—all while ensuring your privacy and data security. Let’s get started!
+                            Welcome to Cipher! Sign in to unlock a world of secure and seamless communication.
+                            Connect, collaborate, and share effortlessly—all while ensuring your privacy and
+                            data security. Let&rsquo;s get started!
                         </p>
                     </div>
                 </section>
@@ -61,15 +63,17 @@ export default function Page() {
                             </a>
 
                             <h1 className="mt-2 text-2xl font-bold text-gray-900 sm:text-3xl md:text-4xl">
-                              Welcome to Cipher
+                                Welcome to Cipher
                             </h1>
 
                             <p className="mt-4 leading-relaxed text-gray-500">
-                            Welcome to Cipher! Sign in to unlock a world of secure and seamless communication. Connect, collaborate, and share effortlessly—all while ensuring your privacy and data security. Let’s get started!
+                                Welcome to Cipher! Sign in to unlock a world of secure and seamless communication.
+                                Connect, collaborate, and share effortlessly—all while ensuring your privacy and
+                                data security. Let&rsquo;s get started!
                             </p>
                         </div>
                     </div>
-                    <SignIn forceRedirectUrl="/conversations"/>
+                    <SignIn forceRedirectUrl="/conversations" />
                 </main>
             </div>
         </section>
